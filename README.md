@@ -19,5 +19,7 @@ React.js Chat App
 
 **Client:** React.js, CSS, HTML
 
+- Ant Design Icons
+
 
 
