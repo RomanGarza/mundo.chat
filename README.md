@@ -1,5 +1,7 @@
 
-# Mundo.Chat
+# Mundo.Chat 
+
+(API calls made to "mundo.chat" no longer work. Plan upgrade required)
 
 React.js Chat App
 
